@@ -18,6 +18,8 @@
 
 7) A pop-up should appear, titled "Certificate Authority." 
 
+### Note: I'm not 100% sure, but if you want to turn GoGuardian back on (for tests and stuff), just go to `Amazon Root CA 1` and check the first two boxes.
+
 8) Important: UNCHECK ALL 3 BOXES, then press "OK"
 
 9) Repeat for all categories under Amazon
@@ -33,3 +35,5 @@
 12) Close out of all applications and restart your chromebook by holding down the power button.
 
 13) Once restarted, check if it has worked. If not, contact my discord (mentioned in title).
+
+#### Remember: GoGuardian active = icon glowing blue.
