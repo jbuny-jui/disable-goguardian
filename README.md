@@ -34,6 +34,6 @@
 
 12) Close out of all applications and restart your chromebook by holding down the power button.
 
-13) Once restarted, check if it has worked. If not, contact my discord (mentioned in title).
+13) Once restarted, check if it has worked by going to a blocked site such as [https://discord.com/app](Discord) If not, contact my discord (mentioned in title).
 
 #### Remember: GoGuardian active = icon glowing blue.
