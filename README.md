@@ -18,7 +18,7 @@
 
 7) A pop-up should appear, titled "Certificate Authority." 
 
-### Note: I'm not 100% sure, but if you want to turn GoGuardian back on (for tests and stuff), just go to `Amazon Root CA 1` and check the first two boxes.
+### Note: I'm not 100% sure, but if you want to turn GoGuardian back on (for tests and stuff), just go to `Amazon Root CA 1` and check the first two boxes. Then, restart the chromebook. Still testing this, it may not work due to client-side lag.
 
 8) Important: UNCHECK ALL 3 BOXES, then press "OK"
 
